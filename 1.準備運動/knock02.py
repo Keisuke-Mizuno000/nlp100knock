@@ -7,7 +7,6 @@ for i in range(len(str)):
 
 print(result)
 
-
 str = "stressed"
 
 result = ""
